@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @PushpaRani2113
-- 👀 I’m interested in AI & ML , DBMS
-- 🌱 I’m currently learning AI&DS at MSEC
+- 👋 Hi, I’m Pushpa Rani
+- 👀 I’m interested in AI & ML , data science
 - 💞️ I’m looking to collaborate as a ML Engineer and software developer
 
 
